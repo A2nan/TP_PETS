@@ -1,0 +1,25 @@
+# 🐾 Gestion d'Animalerie - PetStore Project
+
+Bienvenue dans ce projet **Java JPA** qui permet de gérer une animalerie avec des **animaleries, des produits, des animaux et des adresses**.
+Ce projet met en œuvre **Jakarta Persistence (JPA)** avec **Hibernate** pour stocker et gérer les données en base.
+
+---
+
+## 🚀 Comment exécuter le projet ?
+
+### 1️⃣ **Cloner le projet**
+```bash
+git clone https://github.com/votre-repo/petstore.git
+cd petstore
+
+🏆 À propos du Professeur Sega Sylla
+Ce projet a été réalisé dans le cadre du meilleur cours de Java JPA que j’ai eu de toute ma vie ! 🎓🔥
+Un immense merci à Mr. Sega Sylla, un enseignant exceptionnel qui a su rendre cette matière passionnante et accessible. 💡
+
+Pourquoi ce cours est incroyable ?
+✅ Explications claires et précises
+✅ Méthodologie structurée et efficace
+✅ Exemples concrets et application pratique
+✅ Pédagogie hors norme qui donne envie d’apprendre
+
+Monsieur Sega Sylla, vous êtes le GOAT 🐐 du développement Java ! 🙌
